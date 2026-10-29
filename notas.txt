@@ -1,6 +1,2 @@
-Primera nota sobre el trabajo práctico.
- Realizando cambios en la rama feature/notas-cambios.git add notas.txt
- Revisar la estructura del repositorio 
- Preparar detalles para la integracion de ramas.
- verificacion final previa al Pull Request.
+Linea de prueba para conflicto en la rama master.
 Linea de prueba para conflicto en la rama feature.
