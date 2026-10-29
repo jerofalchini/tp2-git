@@ -1,2 +1,3 @@
 Primera nota sobre el trabajo práctico.
- Realizando cambios en la rama feature/notas-cambios.
+ Realizando cambios en la rama feature/notas-cambios.git add notas.txt
+ 
