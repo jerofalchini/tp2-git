@@ -3,3 +3,4 @@ Primera nota sobre el trabajo práctico.
  Revisar la estructura del repositorio 
  Preparar detalles para la integracion de ramas.
  verificacion final previa al Pull Request.
+Linea de prueba para conflicto en la rama feature.
